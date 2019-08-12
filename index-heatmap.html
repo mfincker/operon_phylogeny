@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<head>
+  <style>
+body {
+  display: flex;
+}
+
+.colhover, .brushed {
+  color: red;
+}
+
+rect.selection {
+  stroke : red;
+  stroke-width : 2px;
+  /*stroke-opacity : 0.5;*/
+  fill : transparent;
+}
+
+.axis {
+  font-size: 10px;
+}
+
+.active-leaf {
+  stroke: red;
+  stroke-width: 1px;
+}
+
+.active-link {
+  stroke: red;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+  <div id="heatmap"></div>
+  <div id="tree"></div>
+</body>
+
+
+
+<!-- Copyright 2019 Mike Bostock https://d3js.org -->
+<!-- <script src="https://d3js.org/d3.v5.min.js"></script> -->
+<script type="text/javascript" src="d3/d3.min.js"></script>
+<script type="text/javascript" src="tree.js"></script>
+<script type="text/javascript" src=heatmap.js></script>

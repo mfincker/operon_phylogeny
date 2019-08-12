@@ -1,0 +1,201 @@
+id_fdh,name,n,pos
+ADOHHFCH_00536_ADOHHFCH_00537,fdhE; FdhE protein,1,36
+ADOHHFCH_00536_ADOHHFCH_00537,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,36
+ADOHHFCH_00536_ADOHHFCH_00537,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,36
+ADOHHFCH_00536_ADOHHFCH_00537,tatA; sec-independent protein translocase protein TatA,1,36
+ADOHHFCH_01062,acetyl-CoA synthetase (acetyltransferase),1,40
+ADOHHFCH_01062,Aldehyde:Ferredoxin OR,1,40
+ADOHHFCH_01062,NuoE,1,40
+ADOHHFCH_01062,NuoF / NADP-reducing hydrogenase subunit HndC,1,40
+ADOHHFCH_01062,"TC.APA; basic amino acid/polyamine antiporter, APA family",1,40
+AGLAFFKD_00949,MetF,1,49
+AGLAFFKD_00949,MetF-like (C terminal),1,49
+AGLAFFKD_00949,NuoE,1,49
+AGLAFFKD_00949,NuoF / NADP-reducing hydrogenase subunit HndC,1,49
+AGLAFFKD_01008_AGLAFFKD_01009,"NiFe H2ase, large",1,41
+AGLAFFKD_01008_AGLAFFKD_01009,NuoE,1,41
+AGLAFFKD_01008_AGLAFFKD_01009,NuoF / NADP-reducing hydrogenase subunit HndC,1,41
+AGLAFFKD_01132_AGLAFFKD_01133,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,26
+AGLAFFKD_01278_AGLAFFKD_01279,Aldehyde:Ferredoxin OR,1,37
+AGLAFFKD_01278_AGLAFFKD_01279,fdhE; FdhE protein,1,37
+AGLAFFKD_01278_AGLAFFKD_01279,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,37
+AGLAFFKD_01278_AGLAFFKD_01279,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,37
+AGLAFFKD_01278_AGLAFFKD_01279,tatA; sec-independent protein translocase protein TatA,1,37
+AGLAFFKD_01278_AGLAFFKD_01279,tatC; sec-independent protein translocase protein TatC,1,37
+BANEILBI_01002,NuoE,1,46
+BANEILBI_01002,NuoF / NADP-reducing hydrogenase subunit HndC,1,46
+BHHCAAKO_00750,"csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor",1,22
+BHHCAAKO_00750,FdhB,1,22
+BHHCAAKO_00750,mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77],1,22
+BHHCAAKO_01042_BHHCAAKO_01043,NfnA,1,18
+BHHCAAKO_01042_BHHCAAKO_01043,NfnB,1,18
+BHHCAAKO_01042_BHHCAAKO_01043,NuoE,1,18
+BHHCAAKO_01042_BHHCAAKO_01043,NuoF / NADP-reducing hydrogenase subunit HndC,1,18
+BHHCAAKO_01042_BHHCAAKO_01043,"TC.APA; basic amino acid/polyamine antiporter, APA family",1,18
+CGHBNBMO_02051_CGHBNBMO_02052,fdhD; FdhD protein,1,47
+CGHBNBMO_02051_CGHBNBMO_02052,NuoE,1,47
+CGHBNBMO_02051_CGHBNBMO_02052,NuoF / NADP-reducing hydrogenase subunit HndC,1,47
+CMMKHPBM_00608,NfnA,1,13
+CMMKHPBM_00608,NfnB,1,13
+CMMKHPBM_00608,"TC.APA; basic amino acid/polyamine antiporter, APA family",1,13
+CMMKHPBM_00996,"csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor",1,24
+CMMKHPBM_00996,Fdh (any kind),1,24
+CMMKHPBM_00996,FdhB,1,24
+CMMKHPBM_00996,mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77],1,24
+CMMKHPBM_00996,MvhD / HydD,1,24
+CMMKHPBM_00996,NuoE,1,24
+CMMKHPBM_00996,NuoF / NADP-reducing hydrogenase subunit HndC,1,24
+CMMKHPBM_00999,"csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor",1,25
+CMMKHPBM_00999,Fdh (any kind),1,25
+CMMKHPBM_00999,FdhB,1,25
+CMMKHPBM_00999,mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77],1,25
+CMMKHPBM_00999,MvhD / HydD,1,25
+CMMKHPBM_00999,NuoE,1,25
+CMMKHPBM_00999,NuoF / NADP-reducing hydrogenase subunit HndC,1,25
+DLDINFOD_03342_DLDINFOD_03343,ABC.SN.P; NitT/TauT family transport system permease protein,1,12
+DLDINFOD_03342_DLDINFOD_03343,fdhD; FdhD protein,1,12
+DLDINFOD_03342_DLDINFOD_03343,NuoF / NADP-reducing hydrogenase subunit HndC,1,12
+DLDINFOD_03342_DLDINFOD_03343,"prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]",1,12
+EMHOAHMC_00199_EMHOAHMC_00200,fdhD; FdhD protein,1,11
+EMHOAHMC_00199_EMHOAHMC_00200,NuoF / NADP-reducing hydrogenase subunit HndC,1,11
+EMHOAHMC_00199_EMHOAHMC_00200,"prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]",1,11
+EMHOAHMC_02383_EMHOAHMC_02384,HydB-like,1,7
+FOPMGJNN_00333,Fdh (any kind),1,45
+FOPMGJNN_00333,NuoE,1,45
+FOPMGJNN_00333,NuoF / NADP-reducing hydrogenase subunit HndC,1,45
+FOPMGJNN_01283,"NiFe H2ase, large",1,42
+FOPMGJNN_01283,NuoE,1,42
+FOPMGJNN_01283,NuoF / NADP-reducing hydrogenase subunit HndC,1,42
+FOPMGJNN_01283,"Subunit ds of NuoEF in A373 / NiFe H2ase, small",1,42
+FOPMGJNN_01547,fdhD; FdhD protein,1,28
+FOPMGJNN_01547,fdhE; FdhE protein,1,28
+FOPMGJNN_01547,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,28
+FOPMGJNN_02625,HdrA,1,6
+GGLOHBDF_02815_GGLOHBDF_02816,mobA; molybdenum cofactor guanylyltransferase [EC:2.7.7.77],1,44
+GGLOHBDF_02815_GGLOHBDF_02816,NuoE,1,44
+GGLOHBDF_02815_GGLOHBDF_02816,NuoF / NADP-reducing hydrogenase subunit HndC,1,44
+HAELDOAO_01121_HAELDOAO_01122,HdrA,1,8
+HAELDOAO_01121_HAELDOAO_01122,HydB-like,1,8
+HAELDOAO_01121_HAELDOAO_01122,MvhD / HydD,1,8
+HBPHFMJL_00044,NfnA,1,17
+HBPHFMJL_00044,NfnB,1,17
+HBPHFMJL_00044,NuoE,1,17
+HBPHFMJL_00044,NuoF / NADP-reducing hydrogenase subunit HndC,1,17
+HBPHFMJL_00044,Transcription regulator,1,17
+HBPHFMJL_00297,Aldehyde:Ferredoxin OR,1,4
+HBPHFMJL_00540,MetF,1,50
+HBPHFMJL_00540,MetF-like (C terminal),1,50
+HBPHFMJL_00540,NuoE,1,50
+HBPHFMJL_00540,NuoF / NADP-reducing hydrogenase subunit HndC,1,50
+HBPHFMJL_01673,acetyl-CoA synthetase (acetyltransferase),1,31
+HBPHFMJL_01673,fdhE; FdhE protein,1,31
+HBPHFMJL_01673,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,31
+HBPHFMJL_01673,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,31
+HCMBCOKN_00048,Aldehyde:Ferredoxin OR,1,5
+HCMBCOKN_00314,MetF-like (C terminal),1,3
+HCMBCOKN_00527,"csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor",1,23
+HCMBCOKN_00527,FdhB,1,23
+HCMBCOKN_00527,MvhD / HydD,1,23
+HLCFPKHG_00679,NfnA,1,20
+HLCFPKHG_00679,NfnB,1,20
+HLCFPKHG_00679,NuoE,1,20
+HLCFPKHG_00679,NuoF / NADP-reducing hydrogenase subunit HndC,1,20
+HLCFPKHG_01093,MetF,1,53
+HLCFPKHG_01093,MetF-like (C terminal),1,53
+HLCFPKHG_01093,NuoE,1,53
+HLCFPKHG_01093,NuoF / NADP-reducing hydrogenase subunit HndC,1,53
+HLCFPKHG_01093,Signal transduction / Histidine kinase,1,53
+HLCFPKHG_01093,Signal transduction response regulator,1,53
+HLCFPKHG_01093,Transcription regulator,1,53
+IAOOFGNK_00008_IAOOFGNK_00009,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,29
+IAOOFGNK_00008_IAOOFGNK_00009,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,29
+IAOOFGNK_02157_IAOOFGNK_02158,NfnA,1,21
+IAOOFGNK_02157_IAOOFGNK_02158,NfnB,1,21
+IAOOFGNK_02157_IAOOFGNK_02158,NuoE,1,21
+IAOOFGNK_02157_IAOOFGNK_02158,NuoF / NADP-reducing hydrogenase subunit HndC,1,21
+IHNCNELA_00422,Fdh (any kind),1,16
+IHNCNELA_00422,NfnA,1,16
+IHNCNELA_00422,NfnB,1,16
+IHNCNELA_00422,NuoE,1,16
+IHNCNELA_00422,NuoF / NADP-reducing hydrogenase subunit HndC,1,16
+IHNCNELA_00426,NfnA,1,19
+IHNCNELA_00426,NfnB,1,19
+IHNCNELA_00426,NuoE,1,19
+IHNCNELA_00426,NuoF / NADP-reducing hydrogenase subunit HndC,1,19
+IHNCNELA_01378,Fdh (any kind),1,34
+IHNCNELA_01378,fdhE; FdhE protein,1,34
+IHNCNELA_01378,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,34
+IHNCNELA_01378,tatA; sec-independent protein translocase protein TatA,1,34
+IHNCNELA_01378,tatC; sec-independent protein translocase protein TatC,1,34
+IHNCNELA_02643,CoA-transferase,1,51
+IHNCNELA_02643,MetF,1,51
+IHNCNELA_02643,MetF-like (C terminal),1,51
+IHNCNELA_02643,NuoE,1,51
+IHNCNELA_02643,NuoF / NADP-reducing hydrogenase subunit HndC,1,51
+IHNCNELA_02643,Signal transduction / Histidine kinase,1,51
+IHNCNELA_02643,Signal transduction response regulator,1,51
+IHNCNELA_02643,Transcription regulator,1,51
+IHNCNELA_02993,NuoE,1,43
+IHNCNELA_02993,NuoF / NADP-reducing hydrogenase subunit HndC,1,43
+IHNCNELA_02993,"prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]",1,43
+IIOFJPBD_00097_IIOFJPBD_00098,fdhE; FdhE protein,1,33
+IIOFJPBD_00097_IIOFJPBD_00098,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,33
+IIOFJPBD_00097_IIOFJPBD_00098,tatA; sec-independent protein translocase protein TatA,1,33
+IIOFJPBD_00097_IIOFJPBD_00098,tatC; sec-independent protein translocase protein TatC,1,33
+IIOFJPBD_00959_IIOFJPBD_00960,acetyl-CoA synthetase (acetyltransferase),1,14
+IIOFJPBD_00959_IIOFJPBD_00960,NfnA,1,14
+IIOFJPBD_00959_IIOFJPBD_00960,NfnB,1,14
+IIOFJPBD_00959_IIOFJPBD_00960,NuoE,1,14
+IIOFJPBD_00959_IIOFJPBD_00960,NuoF / NADP-reducing hydrogenase subunit HndC,1,14
+JMGJHOAL_01048,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,27
+JMGJHOAL_01069_JMGJHOAL_01070,CoA-transferase,1,38
+JMGJHOAL_01069_JMGJHOAL_01070,fdhE; FdhE protein,1,38
+JMGJHOAL_01069_JMGJHOAL_01070,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,38
+JMGJHOAL_01069_JMGJHOAL_01070,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,38
+JMGJHOAL_01069_JMGJHOAL_01070,tatA; sec-independent protein translocase protein TatA,1,38
+JMGJHOAL_01069_JMGJHOAL_01070,tatC; sec-independent protein translocase protein TatC,1,38
+JMGJHOAL_01529_JMGJHOAL_01530,acetyl-CoA synthetase (acetyltransferase),1,15
+JMGJHOAL_01529_JMGJHOAL_01530,NfnA,1,15
+JMGJHOAL_01529_JMGJHOAL_01530,NfnB,1,15
+JMGJHOAL_01529_JMGJHOAL_01530,NuoE,1,15
+JMGJHOAL_01529_JMGJHOAL_01530,NuoF / NADP-reducing hydrogenase subunit HndC,1,15
+JMKPMCBL_00120,MetF,1,48
+JMKPMCBL_00120,MetF-like (C terminal),1,48
+JMKPMCBL_00120,NuoE,1,48
+JMKPMCBL_00120,NuoF / NADP-reducing hydrogenase subunit HndC,1,48
+JMKPMCBL_01650,NuoE,1,39
+JMONHIPP_00383,MetF,1,54
+JMONHIPP_00383,MetF-like (C terminal),1,54
+JMONHIPP_00383,NuoE,1,54
+JMONHIPP_00383,NuoF / NADP-reducing hydrogenase subunit HndC,1,54
+JMONHIPP_00383,Signal transduction / Histidine kinase,1,54
+JMONHIPP_00383,Signal transduction response regulator,1,54
+JMONHIPP_00383,Transcription regulator,1,54
+JMONHIPP_01395_JMONHIPP_01396,"csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor",1,35
+JMONHIPP_01395_JMONHIPP_01396,fdhD; FdhD protein,1,35
+JMONHIPP_01395_JMONHIPP_01396,fdhE; FdhE protein,1,35
+JMONHIPP_01395_JMONHIPP_01396,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,35
+JMONHIPP_01395_JMONHIPP_01396,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,35
+JMONHIPP_01395_JMONHIPP_01396,tatA; sec-independent protein translocase protein TatA,1,35
+JMONHIPP_01395_JMONHIPP_01396,tatC; sec-independent protein translocase protein TatC,1,35
+KCHHLMOC_02607_KCHHLMOC_02608,HdrA,1,9
+KCHHLMOC_02607_KCHHLMOC_02608,HydB-like,1,9
+KCHHLMOC_02607_KCHHLMOC_02608,MvhD / HydD,1,9
+MCADAFJB_00737,"csoR, ricR; CsoR family transcriptional regulator, copper-sensing transcriptional repressor",1,30
+MCADAFJB_00737,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,30
+MCADAFJB_00737,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,30
+MGAMPDCL_01600_MGAMPDCL_01601,"prkC, stkP; eukaryotic-like serine/threonine-protein kinase [EC:2.7.11.1]",1,10
+MGAMPDCL_02553_MGAMPDCL_02554,NuoF / NADP-reducing hydrogenase subunit HndC,1,2
+MHEPHJFC_00332_MHEPHJFC_00333,CoA-transferase,1,1
+PDNGGCEH_00698,MetF,1,52
+PDNGGCEH_00698,MetF-like (C terminal),1,52
+PDNGGCEH_00698,NuoE,1,52
+PDNGGCEH_00698,NuoF / NADP-reducing hydrogenase subunit HndC,1,52
+PDNGGCEH_00698,Signal transduction / Histidine kinase,1,52
+PDNGGCEH_00698,Signal transduction response regulator,1,52
+PDNGGCEH_00698,Transcription regulator,1,52
+PDNGGCEH_01030_PDNGGCEH_01031,fdhE; FdhE protein,1,32
+PDNGGCEH_01030_PDNGGCEH_01031,"fdoH, fdsB; formate dehydrogenase iron-sulfur subunit",1,32
+PDNGGCEH_01030_PDNGGCEH_01031,"fdoI, fdsG; formate dehydrogenase subunit gamma",1,32
+PDNGGCEH_01030_PDNGGCEH_01031,NuoE,1,32
+PDNGGCEH_01030_PDNGGCEH_01031,NuoF / NADP-reducing hydrogenase subunit HndC,1,32

@@ -1,0 +1,9 @@
+{
+  "name": "cluster-dendrogram",
+  "main": "cluster-dendrogram.js",
+  "version": "133.0.0",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  }
+}
