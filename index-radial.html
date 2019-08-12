@@ -144,10 +144,10 @@ d3.text("data/fdha_tree.nwk", function(error, life) {
     .enter().append("text")
       .attr("dy", "0.31em")
       // Polar
-      // .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (innerRadius + 4) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
+      .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + (innerRadius + 4) + ",0)" + (d.x < 180 ? "" : "rotate(180)"); })
       // Cartesian
-      .attr("transform", function(d) { return "rotate(" + 0 + ")translate(" + (innerRadius + 4) + "," +  
-      d.x + ")"; })
+      // .attr("transform", function(d) { return "rotate(" + 0 + ")translate(" + (innerRadius + 4) + "," +  
+      // d.x + ")"; })
       // .attr("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
       .text(function(d) { return d.data.name.replace(/FdhA_/g, " "); })
       .on("mouseover", mouseovered(true))
